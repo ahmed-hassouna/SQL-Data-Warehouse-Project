@@ -45,3 +45,9 @@ GO
 
 -- 'gold' schema contains highly curated, business-ready data for reporting and analytics
 CREATE SCHEMA gold;
+
+-- 'log' schema: logging and audit for ETL processes
+CREATE SCHEMA log;
+GO
+
+
